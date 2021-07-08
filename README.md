@@ -4,6 +4,8 @@ all my posts archive
 
 A part of these articles you can see on my [blog](https://blog.songhn.com/posts/)
 
+All my high school posts on the [luogu blog](https://songhn.blog.luogu.org/)
+
 ```
 .
 ├── acm
