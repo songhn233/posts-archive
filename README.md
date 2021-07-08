@@ -2,6 +2,8 @@
 
 all my posts archive
 
+A part of these articles you can see on my [blog](https://blog.songhn.com/posts/)
+
 ```
 .
 ├── acm
