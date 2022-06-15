@@ -1,10 +1,8 @@
 # posts-archive
 
-all my posts archive
+All my posts archive. New articles can be seen in the [issue list](https://github.com/songhn233/posts-archive/issues).
 
-A part of these articles you can see on my [blog](https://blog.songhn.com/posts/)
-
-All my high school posts on the [luogu blog](https://songhn.blog.luogu.org/)
+A part of these articles you can see on my [blog](https://blog.songhn.com/posts/), all my high school posts on the [luogu blog](https://songhn.blog.luogu.org/).
 
 ```
 .
